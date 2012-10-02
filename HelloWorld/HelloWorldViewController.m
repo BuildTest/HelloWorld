@@ -27,6 +27,7 @@
 
 - (void)viewDidLoad
 {
+    self.title=@"Hello";
     [self.view setBackgroundColor:[UIColor blueColor]];
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
